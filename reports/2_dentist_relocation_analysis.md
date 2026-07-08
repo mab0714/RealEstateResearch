@@ -71,7 +71,37 @@ Purchasing an existing practice offers **immediate cash flow from Day 1** and av
 *   **Arizona (Phoenix/Scottsdale) & North Carolina (Charlotte):** Extremely high corporate DSO activity. Large DSOs actively bid up premium practices, driving valuations to the high end (**80% to 90%+ of collections**). This makes finding an affordable private practice acquisition highly competitive and expensive for independent dentists.
 *   **Texas (DFW or Suburban Metros):** While DSOs are highly active in urban centers, the sheer geographic scale and rapid suburban development of Texas provide a much larger pool of retiring solo practitioners. In suburban rings, independent buyers can acquire stable, profitable practices at historical valuations (**60% to 70% of collections**) without facing corporate bidding wars.
 
-### 4. Tax Structure Leverage on Practice Profits
+### 4. Startup vs. Acquisition Cost Comparison (2,000 sq. ft. / 4-5 Operatories)
+
+To compare the financial requirements of both options, we model a standard **2,000 sq. ft. office with 4 to 5 operatories** (which can support $1M+ in stabilized collections) in our three main metros:
+
+#### Option A: Scratch Start-up (De Novo)
+*   **Medical Commercial Leases (NNN):**
+    *   *Dallas, TX:* $25 – $35 PSF ($50,000 – $70,000/yr base rent)
+    *   *Phoenix, AZ:* $27 – $31 PSF ($54,000 – $62,000/yr base rent)
+    *   *Charlotte, NC:* $30 – $41 PSF ($60,000 – $82,000/yr base rent)
+*   **Construction Build-out (Dental Plumbing/HVAC/Electrical):** $120 – $150 PSF ($240,000 – $300,000)
+*   **Dental Equipment & Tech (Chairs, Sensors, CAD/CAM, Sterilization):** $180,000 – $250,000
+*   **IT & Office Supplies:** $30,000 – $50,000
+*   **Working Capital (6 months of payroll/overhead during patient ramp-up):** $75,000 – $100,000
+*   **Total Scratch Startup Investment:** **$575,000 to $780,000+**
+
+#### Option B: Practice Acquisition (1M Gross Collections Baseline)
+*   **Practice Purchase Price (60% to 90% of collections):**
+    *   *Texas (DFW Suburbs):* **$600,000 – $700,000** (average 65% multiple due to abundant retiring solo practitioners and lower DSO pressure in exurban corridors).
+    *   *North Carolina (Charlotte):* **$750,000 – $850,000** (average 80% multiple due to regional DSO clustering).
+    *   *Arizona (Scottsdale/Phoenix):* **$800,000 – $900,000+** (average 85%+ multiple due to extreme DSO consolidation and bidding wars).
+*   **Acquisition Working Capital (Day-1 accounts receivable float):** $50,000 – $75,000
+*   **Total Acquisition Investment:** **$650,000 to $975,000+**
+
+### 5. Bank Financing Terms for Dental Practices
+Banks view dentistry as a highly stable sector with default rates below $1.0\%$. Consequently, dental-specific lenders (e.g., Bank of America Practice Solutions, Live Oak Bank, Wells Fargo) offer highly favorable terms:
+*   **100% Financing:** No down payment is typically required for qualified dentists (both startups and acquisitions).
+*   **Interest Rates:** Typically Prime + 0.5% to 1.5% (modeled at **8.5% – 9.5%**).
+*   **Loan Terms:** 10 years for acquisitions; up to 15 years for startups.
+*   **Interest-Only Period:** Many startup loans offer 6 to 12 months of interest-only payments initially to preserve cash flow during the patient acquisition ramp-up.
+
+### 6. Tax Structure Leverage on Practice Profits
 Operating a dental practice creates significant corporate profits. The state tax structures create a major divergence in your net wealth:
 *   **Texas & Florida:** Zero state corporate or state personal income tax on practice profits. Every dollar of profit distribution flows directly to your personal cash balance.
 *   **North Carolina:** A flat **4.5% personal income tax** and a **2.5% corporate tax** apply to practice profits.
