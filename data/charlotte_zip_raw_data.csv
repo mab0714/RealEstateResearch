@@ -1,0 +1,9 @@
+zip_code,neighborhood,home_value_zhvi,monthly_rent_zori,effective_property_tax,state_income_tax,unemployment_rate,pop_growth_5yr,poverty_rate,school_quality,price_volatility,renter_ratio,rental_vacancy,zillow_source_url,bls_source_url,census_source_url,tax_source_url
+28203,South End / Dilworth,691346,1978,0.0095,0.0450,0.036,0.152,0.045,85,0.060,0.642,0.052,https://www.zillow.com/research/data/,https://www.bls.gov/lau/,https://data.census.gov/,https://taxfoundation.org/
+28202,Uptown,415262,1872,0.0095,0.0450,0.036,0.095,0.092,60,0.080,0.785,0.078,https://www.zillow.com/research/data/,https://www.bls.gov/lau/,https://data.census.gov/,https://taxfoundation.org/
+28205,NoDa / Plaza Midwood,468536,1800,0.0095,0.0450,0.036,0.062,0.105,65,0.070,0.528,0.055,https://www.zillow.com/research/data/,https://www.bls.gov/lau/,https://data.census.gov/,https://taxfoundation.org/
+28269,University City,361475,2061,0.0095,0.0450,0.036,0.085,0.082,55,0.060,0.415,0.062,https://www.zillow.com/research/data/,https://www.bls.gov/lau/,https://data.census.gov/,https://taxfoundation.org/
+28277,Ballantyne,619189,2150,0.0085,0.0450,0.036,0.058,0.032,95,0.050,0.286,0.045,https://www.zillow.com/research/data/,https://www.bls.gov/lau/,https://data.census.gov/,https://taxfoundation.org/
+28215,East Charlotte,353739,1987,0.0095,0.0450,0.036,0.072,0.145,40,0.080,0.382,0.068,https://www.zillow.com/research/data/,https://www.bls.gov/lau/,https://data.census.gov/,https://taxfoundation.org/
+28216,Northwest Charlotte,323247,1732,0.0095,0.0450,0.036,0.090,0.158,35,0.090,0.395,0.072,https://www.zillow.com/research/data/,https://www.bls.gov/lau/,https://data.census.gov/,https://taxfoundation.org/
+28273,Steele Creek,372913,2050,0.0095,0.0450,0.036,0.115,0.085,65,0.070,0.468,0.058,https://www.zillow.com/research/data/,https://www.bls.gov/lau/,https://data.census.gov/,https://taxfoundation.org/
