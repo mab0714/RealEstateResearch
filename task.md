@@ -16,4 +16,5 @@
 - [x] Generate Charlotte raw data CSV (`data/charlotte_zip_raw_data.csv`)
 - [x] Generate Charlotte results CSV (`data/charlotte_zip_scoring_results.csv`)
 - [x] Generate final Charlotte analysis report (`charlotte_zipcode_analysis.md`)
+- [x] Analyze dentist job markets and compile dentist relocation matrix (`dentist_relocation_analysis.md`)
 

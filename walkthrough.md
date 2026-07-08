@@ -55,6 +55,8 @@ Building on Charlotte's position as our top macro investment opportunity, we com
 
 ### 2. Tabular & Analytical Deliverables
 - [charlotte_zipcode_analysis.md](file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/charlotte_zipcode_analysis.md): A comprehensive submarket report with raw metrics, scoring tables, and step-by-step mathematical walkthroughs.
+- [dentist_relocation_analysis.md](file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/dentist_relocation_analysis.md): A strategic career-and-investment report mapping dental salaries, local practice density/saturation, state income tax drag, and real estate returns.
+
 - [charlotte_zip_raw_data.csv](file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/data/charlotte_zip_raw_data.csv): Tabular raw data with source links for Excel vetting.
 - [charlotte_zip_scoring_results.csv](file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/data/charlotte_zip_scoring_results.csv): Score spreadsheet listing computed yields and ranks.
 
