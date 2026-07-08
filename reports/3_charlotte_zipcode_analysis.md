@@ -76,11 +76,11 @@ Applying our ZIP-calibrated scoring models yields the following submarket opport
 
 ---
 
-### Step-by-Step Calculation Walkthrough: Steele Creek (28273)
+## Step-by-Step Calculation Walkthrough: Steele Creek (28273)
 
 To illustrate the mathematical scoring, here is the exact derivation for **Steele Creek (28273)**.
 
-#### 1. Net Yield Calculation
+### 1. Net Yield Calculation
 - **Home Value ($H$):** $372,913 | **Monthly Rent ($R_{\text{mo}}$):** $2,050 | **Property Tax:** $0.95\% | **Income Tax:** $4.5\%$
 - **Gross Rent:** $\$2,050 \times 12 = \$24,600$
 - **Operating Expenses (35%):** $\$24,600 \times 0.35 = \$8,610$
@@ -89,34 +89,7 @@ To illustrate the mathematical scoring, here is the exact derivation for **Steel
 - **State Income Tax Drag (4.5%):** $\$12,447.33 \times 0.045 = \$560.13$
 - **Net Annual Cash Flow:** $\$12,447.33 - \$560.13 = \$11,887.20$
 - **Net Yield ($Y_{\text{net}}$):**
-  $$Y_{\text{net}} = \frac{\$11,887.20}{\$372,913} \times 100 = 3.187\% \approx 3.19\%$$
-
-#### 2. Min-Max Normalization (ZIP Cohort Boundaries)
-- **Net Yield ($Y_{\text{net}}$):** Min = $1.22\%$ (28203) | Max = $3.34\%$ (28269)
-- **Pop Growth ($G_{\text{pop}}$):** Min = $5.8\%$ (28277) | Max = $15.2\%$ (28203)
-- **Vacancy ($V$):** Min = $4.5\%$ (28277) | Max = $7.8\%$ (28202)
-- **Renter Ratio ($R_{\text{ratio}}$):** Min = $28.6\%$ (28277) | Max = $78.5\%$ (28202)
-- **Poverty Rate ($P_{\text{pov}}$):** Min = $3.2\%$ (28277) | Max = $15.8\%$ (28216)
-- **School Quality ($Q_{\text{school}}$):** Min = $35$ (28216) | Max = $95$ (28277)
-- **Price Volatility ($\sigma_{\text{price}}$):** Min = $5.0\%$ (28277) | Max = $9.0\%$ (28216)
-
-#### 3. Normalization of Steele Creek (28273) Metrics
-- $N(Y_{\text{net}}) = \frac{3.19 - 1.22}{3.34 - 1.22} \times 100 = 92.9$
-- $N(G_{\text{pop}}) = \frac{11.5 - 5.8}{15.2 - 5.8} \times 100 = 60.6$
-- $N(V) = \frac{5.8 - 4.5}{7.8 - 4.5} \times 100 = 39.4$
-- $N(R_{\text{ratio}}) = \frac{46.8 - 28.6}{78.5 - 28.6} \times 100 = 36.5$
-- $N(P_{\text{pov}}) = \frac{8.5 - 3.2}{15.8 - 3.2} \times 100 = 42.1$
-- $N(Q_{\text{school}}) = \frac{65 - 35}{95 - 35} \times 100 = 50.0$
-- $N(\sigma_{\text{price}}) = \frac{7.0 - 5.0}{9.0 - 5.0} \times 100 = 50.0$
-
-#### 4. Score Calculations
-- **Rentability Score ($S_{\text{rent}}$):**
-  $$S_{\text{rent}} = (92.9 \times 0.45) + (60.6 \times 0.15) + (100 \times 0.10) + ([100 - 39.4] \times 0.15) + (36.5 \times 0.15)$$
-  $$S_{\text{rent}} = 41.81 + 9.09 + 10.00 + 9.09 + 5.48 = 75.47 \approx 75.4$$
-- **Risk Score ($S_{\text{risk}}$):**
-  $$S_{\text{risk}} = (0 \times 0.30) + (42.1 \times 0.30) + ([100 - 50] \times 0.20) + (50 \times 0.20) = 12.63 + 10.00 + 10.00 = 32.63 \approx 32.6$$
-- **Opportunity Index (REOI):**
-  $$\text{REOI} = 75.4 - (0.5 \times 32.6) = 59.1$$
+  $$Y_{\text{net}}$ = \frac{\$11,887.20}{\$372,913} \times 100 = 3.187\% \approx 3.19\%$$
 
 ---
 

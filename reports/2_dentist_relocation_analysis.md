@@ -1,4 +1,4 @@
-# Dentist Relocation & Real Estate Investment Matrix
+# Dentist Relocation & Real Estate Investment Matrix (Refined)
 **Date:** July 2026  
 **Author:** Antigravity AI Coding Assistant & Research Partner  
 
@@ -27,10 +27,10 @@ The table below compiles key dental career metrics and matches them with our rea
 
 | State | Target Metro | Dentist Mean Salary | Dentist Density (per 100k) | State Income Tax | Real Estate Yield (Net) | Top Local REOI Zip |
 | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **Texas** | Dallas-Fort Worth | **$207,300** | **25.9** (Lowest) | **0.00%** | **3.24%** (High) | 75201 (Dallas Core) |
-| **North Carolina** | Charlotte | **$205,800** | 41.7 (Moderate) | 4.50% (Flat) | **3.00%** (High) | 28273 (Steele Creek) |
-| **Florida** | Miami / Tampa | $188,900 | 38.3 (Moderate) | **0.00%** | **3.01% – 3.29%** (Highest) | 33139 (Miami Beach) / 33606 (Tampa) |
-| **Arizona** | Phoenix | $191,100 | 40.3 (Moderate) | 2.50% (Flat) | 2.86% (Moderate) | 85251 (Scottsdale) |
+| **Texas** | Dallas-Fort Worth | **$207,300** | **25.9** (Lowest) | **0.00%** | **2.75%** (High) | 75201 (Dallas Core) |
+| **North Carolina** | Charlotte | **$205,800** | 41.7 (Moderate) | 4.50% (Flat) | **2.94%** (Highest) | 28273 (Steele Creek) |
+| **Florida** | Miami / Tampa | $188,900 | 38.3 (Moderate) | **0.00%** | **1.81% – 2.59%** (Moderate) | 33139 (Miami Beach) / 33606 (Tampa) |
+| **Arizona** | Phoenix | $191,100 | 40.3 (Moderate) | 2.50% (Flat) | **2.94%** (Highest) | 85251 (Scottsdale) |
 
 ---
 
@@ -39,25 +39,25 @@ The table below compiles key dental career metrics and matches them with our rea
 ### 1. Texas (Dallas-Fort Worth or Austin) — *The Income & Practice Powerhouse*
 *   **Dental Market Dynamics:** Texas is a clear winner for dental professionals. With only **25.94 dentists per 100,000 residents**, the state is significantly underserved compared to the national average. This low density represents an exceptionally favorable climate for patient acquisition, associateship production, and practice start-ups or acquisitions.
 *   **Financial Impact:** General dentists earn a high average salary (~$207,300). Because Texas has **no state income tax**, your take-home pay is maximized, allowing you to cycle significant cash flow directly into real estate.
-*   **Real Estate Synergy:** Dallas-Fort Worth ranks #3 in our macro analysis, offering a very strong **3.24% net yield** (accounting for property taxes). 
+*   **Real Estate Synergy:** Dallas-Fort Worth ranks #3 in our macro analysis, offering a very strong **2.75% net yield** (accounting for property taxes and weather-related insurance costs). 
 
 ### 2. North Carolina (Charlotte or Raleigh) — *The Balanced High-Growth Play*
 *   **Dental Market Dynamics:** North Carolina cities—especially Raleigh and Charlotte—regularly rank in national lists for the best cities for dentists. Charlotte has high commercial dental insurance participation (payer mix) and strong search volume for new patient dental services. However, at **41.67 dentists per 100,000**, the market is moderately more competitive/saturated than Texas.
 *   **Financial Impact:** High average salaries (~$205,800) are offset slightly by NC's flat **4.50% state income tax**.
-*   **Real Estate Synergy:** Charlotte ranks #1 in our macro real estate index ($REOI = 56.8$) due to a landlord-friendly legal environment and low property tax drag, offering superb cash-flow stability.
+*   **Real Estate Synergy:** Charlotte ranks #1 in our macro real estate index ($REOI = 61.1$) due to a landlord-friendly legal environment and low property tax drag, offering superb cash-flow stability.
 
 ### 3. Florida (Tampa or Miami) — *The Lifestyle & Zero-Tax Play*
 *   **Dental Market Dynamics:** Florida is home to a massive aging baby-boomer demographic, creating a massive, stable pool for high-margin procedures (implants, crown & bridge, prosthodontics). However, dentist density is moderate (38.31 per 100k) and average wages ($181,950–$195,930) are slightly lower than NC and TX.
 *   **Financial Impact:** Favorable zero-state-income-tax environment.
-*   **Real Estate Synergy:** Miami and Tampa offer exceptional rental yields (net yields up to **3.29%** in Miami and **3.01%** in Tampa) with strong renter occupancy.
+*   **Real Estate Synergy:** Miami and Tampa offer exceptional rental yields (net yields up to **2.59%** in Miami and **1.81%** in Tampa) with strong renter occupancy, but are heavily dragged down by high insurance rates.
 
 ---
 
 ## Strategic Recommendations for Relocation
 
 1.  **If Practice Ownership is the Goal:** 
-    *   **Dallas-Fort Worth (Texas)** is the premier choice. The combination of low dentist saturation (25.9 per 100k), high population influx, and zero state income tax provides the easiest path to patient acquisition and maximum business profitability. You can invest your surplus cash flow into local DFW single-family or multifamily rentals, which yield a solid $3.24\%$ net.
+    *   **Dallas-Fort Worth (Texas)** is the premier choice. The combination of low dentist saturation (25.9 per 100k), high population influx, and zero state income tax provides the easiest path to patient acquisition and maximum business profitability. You can invest your surplus cash flow into local DFW single-family or multifamily rentals, which yield a solid $2.75\%$ net.
 2.  **If W-2 Associateship & Immediate Cash-Flow Investing is the Goal:**
     *   **Charlotte (North Carolina)** is highly optimized. You get a strong, stable dentist salary (~$205k) and can purchase cash-flowing real estate in highly profitable local pockets like **Steele Creek (28273)** or **University City (28269)**, which are backed by strong renter pools.
 3.  **If High-End Specialist Practice (Cosmetics/Prosthodontics) is the Goal:**
-    *   **Miami or Tampa (Florida)** are excellent targets. The high concentrations of retiree wealth and cosmetic-focused demographics align perfectly with elective, out-of-pocket dental procedures, and the local real estate yields are among the highest in the country.
+    *   **Miami or Tampa (Florida)** are excellent targets. The high concentrations of retiree wealth and cosmetic-focused demographics align perfectly with elective, out-of-pocket dental procedures, and the local real estate yields are among the highest in the country before insurance deductions.
