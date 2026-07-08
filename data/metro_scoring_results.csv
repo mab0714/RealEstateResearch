@@ -1,0 +1,11 @@
+metro_area,net_yield,rentability_score,risk_score,reoi_index,rank,methodology_source
+Charlotte, NC,3.00%,66.9,20.1,56.8,1,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+Miami, FL,3.29%,76.2,41.9,55.3,2,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+Dallas-Fort Worth, TX,3.24%,68.4,28.6,54.1,3,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+Atlanta, GA,2.99%,63.9,26.4,50.7,4,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+Tampa, FL,3.01%,60.3,42.6,39.0,5,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+Phoenix, AZ,2.86%,60.5,53.3,33.8,6,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+New York, NY,2.01%,53.1,45.8,30.2,7,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+Austin, TX,1.15%,37.7,23.6,25.9,8,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+Chicago, IL,2.77%,49.4,49.9,24.4,9,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
+Los Angeles, CA,0.85%,29.1,68.0,-4.9,10,file:///c:/Users/mab07/OneDrive/Desktop/RealEstateResearch/us_rental_market_analysis.md
