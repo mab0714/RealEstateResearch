@@ -64,6 +64,43 @@ Applying our scoring algorithms yields the following rankings (ordered by **REOI
 
 ---
 
+## Weather, Insurance, and the "True Net Yield" Breakdown
+
+While macro rankings based on standard operating expense assumptions (a flat 35% opex) provide a helpful baseline, they hide the severe impact of **climate/weather risk** and **exploding home insurance premiums** in the Sunbelt. 
+
+To reveal the actual cash-in-pocket returns, we re-modeled the cohort's net yields using:
+1. **Actual State Average Home Insurance Premiums (2026):** Ranging from $7,136/yr in Florida to $2,344/yr in Arizona.
+2. **State-Specific Capital Expenditures (CapEx) & Maintenance Risk:** 
+   - **Florida (Miami/Tampa):** Modeled at **12%** of gross rent due to humidity, salt-air corrosion, and severe hurricane preparation.
+   - **Texas (Dallas/Austin):** Modeled at **12%** of gross rent due to severe seasonal hail damage (roofing claims) and soil expansion/contraction which cracks foundations.
+   - **Midwest/Northeast (Chicago/NY):** Modeled at **10%** due to harsh winter freeze/thaw pipe burst and boiler maintenance risks.
+   - **Charlotte & Phoenix:** Modeled at **8%** due to low severe storm/foundation risks.
+3. **Management Fees:** Set at a standard **15%** of gross rents (incorporating both typical 8-10% monthly property management and vacancy/turnover leasing fees).
+
+### Refined Cash Flow Table (True Net Yields)
+
+Deducting these precise tax, opex, and insurance variables shifts the cash-flow rankings dramatically:
+
+| Rank | Metropolitan Area | Gross Rent (Annual) | Property Taxes | Home Insurance | Operating Expenses | Net Cash Flow | **True Net Yield** | Initial Yield (35% Opex) |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1** | **Atlanta, GA** | $25,200 | $4,085 | $3,000 | $5,796 | $11,643 | **2.99%** | 2.99% |
+| **2** | **Phoenix, AZ** | $22,380 | $2,469 | $2,344 | $5,147 | $12,109 | **2.94%** | 2.86% |
+| **3** | **Charlotte, NC** | $23,940 | $3,001 | $3,124 | $5,506 | $11,755 | **2.94%** | 3.00% |
+| **4** | **Chicago, IL** | $25,140 | $6,844 | $2,400 | $6,285 | $9,136 | **2.80%** | 2.77% |
+| **5** | **Dallas-Fort Worth, TX** | $28,200 | $6,309 | $4,085 | $7,614 | $10,192 | **2.75%** | 3.24% |
+| **6** | **Miami, FL** | $38,400 | $5,819 | $7,136 | $10,368 | $15,077 | **2.59%** | 3.29% |
+| **7** | **New York, NY** | $42,036 | $11,631 | $2,800 | $10,509 | $15,925 | **2.19%** | 2.01% |
+| **8** | **Tampa, FL** | $24,000 | $4,172 | $6,500 | $6,480 | $6,848 | **1.81%** | 3.01% |
+| **9** | **Los Angeles, CA** | $32,040 | $11,888 | $2,200 | $7,369 | $9,599 | **1.01%** | 0.85% |
+| **10** | **Austin, TX** | $23,928 | $9,704 | $4,085 | $6,461 | $3,679 | **0.72%** | 1.15% |
+
+### Key Insights from the Refined Analysis:
+*   **The Florida Insurance Crisis:** Florida properties see their yields completely eroded. Miami drops from **3.29% to 2.59%** and Tampa collapses from **3.01% to 1.81%** due to average annual insurance costs peaking at **$6,500 - $7,136** alongside high storm CapEx.
+*   **The Texas Double-Squeeze:** In Texas, the combination of extremely high property taxes and steep insurance costs ($4,085/yr) due to hail and foundation issues drags DFW down from **3.24% to 2.75%** and pushes Austin down to a negligible **0.72%**.
+*   **Weather Sheltered Markets (Atlanta & Phoenix):** Because Phoenix has low property taxes ($0.60%) and very low weather risks (low insurance premiums), it actually rises to Rank 2 (**2.94%** True Net Yield) despite its lower gross rental yields. Atlanta takes the top spot at **2.99%** due to balanced taxes and insurance. Charlotte holds firm at Rank 3 (**2.94%**).
+
+---
+
 ## Detailed Analysis of Key Markets
 
 ### The Winners: Strong Cash Flow & Growth
